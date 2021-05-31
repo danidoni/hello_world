@@ -6,6 +6,7 @@ License:    FIXME
 
 %description
 This is my first RPM package, which does nothing.
+Changes
 
 %prep
 # we have no source, so nothing here
